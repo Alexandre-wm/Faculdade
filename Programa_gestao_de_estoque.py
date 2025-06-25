@@ -1,4 +1,5 @@
-''' criar um sistema de controle de estoque para uma loja de eletrônicos
+''' 
+Estudo de Caso - Computational Logic Using Python - Loja de Eletrônicos
 
 Criação da base do sistema:
 a) Implemente um menu de opções para o usuário, permitindo que ele selecione
